@@ -1,4 +1,4 @@
-export const characters = [
+export const api = [
     { name: "Goku", img: "https://vignette.wikia.nocookie.net/dbz-dokkanbattle/images/2/21/Dl5OdcoU0AAtMfQ.jpeg/revision/latest/scale-to-width-down/340?cb=20181122082552", show: "DBZ" },
     { name: "Midoriya", img: "https://comicvine1.cbsistatic.com/uploads/scale_small/11117/111173561/5994041-8086170340-63780.jpg", show: "My Hero" },
     { name: "Yoruichi", img: "https://vignette.wikia.nocookie.net/bleachhd/images/3/3b/Yoruichi_42.jpg/revision/latest?cb=20140811132400", show: "Bleach" },
